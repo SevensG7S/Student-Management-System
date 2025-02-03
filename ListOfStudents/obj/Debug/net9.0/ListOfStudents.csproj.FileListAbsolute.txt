@@ -1,0 +1,14 @@
+D:\С# train\ListOfStudents\bin\Debug\net9.0\ListOfStudents.exe
+D:\С# train\ListOfStudents\bin\Debug\net9.0\ListOfStudents.deps.json
+D:\С# train\ListOfStudents\bin\Debug\net9.0\ListOfStudents.runtimeconfig.json
+D:\С# train\ListOfStudents\bin\Debug\net9.0\ListOfStudents.dll
+D:\С# train\ListOfStudents\bin\Debug\net9.0\ListOfStudents.pdb
+D:\С# train\ListOfStudents\obj\Debug\net9.0\ListOfStudents.GeneratedMSBuildEditorConfig.editorconfig
+D:\С# train\ListOfStudents\obj\Debug\net9.0\ListOfStudents.AssemblyInfoInputs.cache
+D:\С# train\ListOfStudents\obj\Debug\net9.0\ListOfStudents.AssemblyInfo.cs
+D:\С# train\ListOfStudents\obj\Debug\net9.0\ListOfStudents.csproj.CoreCompileInputs.cache
+D:\С# train\ListOfStudents\obj\Debug\net9.0\ListOfStudents.dll
+D:\С# train\ListOfStudents\obj\Debug\net9.0\refint\ListOfStudents.dll
+D:\С# train\ListOfStudents\obj\Debug\net9.0\ListOfStudents.pdb
+D:\С# train\ListOfStudents\obj\Debug\net9.0\ListOfStudents.genruntimeconfig.cache
+D:\С# train\ListOfStudents\obj\Debug\net9.0\ref\ListOfStudents.dll
