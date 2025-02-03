@@ -24,7 +24,7 @@ class Program
                         break;
                     }
                     else
-                        Console.WriteLine("Студент с таким ID уже существует.");
+                        Console.WriteLine("Student with that ID is already created.");
                 }
                 else
                 {
